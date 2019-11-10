@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 console.log("Hola mund");
 
 
@@ -38,3 +39,9 @@ console.log("Hola mund");
 ´´´´¶¶¶¶¶¶¶¶¶¶¶´´´¶¶¶¶¶¶¶¶¶¶¶ ~* 
 
 */
+=======
+console.log("Hola mundo");
+console.log("F");
+console.log("F");
+//holi prros :v;
+>>>>>>> 98af7a278eca131c706239ce1b09ae0f92186ad4
